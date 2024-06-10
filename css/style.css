@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: green;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+footer {
+    text-align: end;
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+}
+
+table,
+th,
+tr {
+    border: 2px solid black;
+}
+
+img {
+    height: 200px;
+    border-radius: 8px;
+    position: absolute;
+    top: 100px;
+    right: 100px;
+}
